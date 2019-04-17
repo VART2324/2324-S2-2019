@@ -1,4 +1,4 @@
-VART2324 Semester Submissions
+<h1>VART2324 Semester Submissions
 
 Please make sure you have submitted at least four (4) sketches to the Assignments collection in the OpenProcessing class.
 You may still improve your previous submissions until the last day for a better grade on them.
