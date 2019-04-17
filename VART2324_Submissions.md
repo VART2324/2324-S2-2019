@@ -9,4 +9,4 @@ Your final assignment is open: Create a sketch based on the things you’ve lear
 
 Submit your Final sketch in the same manner.
 
-The final due date is: 09 May 2019
+<red>The final due date is: 09 May 2019
